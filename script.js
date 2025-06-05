@@ -21,7 +21,7 @@ function instagram(){
 }
 
 function projetoWeb(){
-     window.location.href = "https://github.com/mtojald/Portifolio-Web";
+     window.location.href = "https://github.com/mtojald/PortifolioWeb";
 }
 
 function projetoGaitaHero(){
