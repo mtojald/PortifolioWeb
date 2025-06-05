@@ -9,21 +9,25 @@ menuIcon.onclick = () =>{
 }
 
 function github(){
-    window.location.href = "https://github.com/mtojald"
+    window.location.href = "https://github.com/mtojald";
 }
+
 function linkedin(){
-    window.location.href = "https://www.linkedin.com/in/mtojald/"
+    window.location.href = "https://www.linkedin.com/in/mtojald/";
 }
+
 function instagram(){
-     window.location.href = "https://www.instagram.com/_mtojal/"
-        }
+     window.location.href = "https://www.instagram.com/_mtojal/";
+}
 
 function projetoWeb(){
-     window.location.href = "https://github.com/mtojald/Portifolio-Web"
+     window.location.href = "https://github.com/mtojald/Portifolio-Web";
 }
+
 function projetoGaitaHero(){
-     window.location.href = "https://github.com/mtojald/Gaita-Hero"
+     window.location.href = "https://github.com/mtojald/Gaita-Hero";
 }
+
 function projetoCrud(){
-     window.location.href = "https://github.com/ArthurMatias57/Vida-pet"
+     window.location.href = "https://github.com/ArthurMatias57/Vida-pet";
 }
