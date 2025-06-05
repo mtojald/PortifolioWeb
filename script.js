@@ -19,7 +19,7 @@ function instagram(){
         }
 
 function projetoWeb(){
-     window.location.href = "https://www.instagram.com/_mtojal/"
+     window.location.href = "https://github.com/mtojald/Portifolio-Web"
 }
 function projetoGaitaHero(){
      window.location.href = "https://github.com/mtojald/Gaita-Hero"
