@@ -157,7 +157,7 @@ section{
                 0 0 100px var(--main-color);
 }
 
-.social-icons{
+.social-icons a{
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -202,3 +202,4 @@ section{
                 0 0 50px var(--main-color);
 
 }
+
