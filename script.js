@@ -18,7 +18,7 @@ function linkedin(){
 }
 
 function instagram(){
-     window.location.href = "https://www.instagram.com/_mtojal/";
+     window.location.href = "https://www.instagram.com/mtojald/";
 }
 
 function projetoWeb(){
